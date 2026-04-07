@@ -58,3 +58,4 @@ graph TD
         F4 --> G2[/野火抑制效应时空演变规律报告/]:::resultBox
         F4 --> G3[/高水平SCI/核心期刊论文/]:::resultBox
     end
+'''
